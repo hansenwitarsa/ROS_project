@@ -1,2 +1,2 @@
 This folder contains code written in python that is used to control the myAGV robot.
-UNfortunately, some files that is necessary to run ROS (launch file) is not present because of technical error.
+Unfortunately, some files that is necessary to run ROS (launch file) is not present because of technical error.
